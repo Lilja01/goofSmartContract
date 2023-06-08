@@ -1,1 +1,1 @@
-# goofSmartContract
+# Goof Smart Contract
